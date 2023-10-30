@@ -1,2 +1,2 @@
-# PhaserEndlessRunnerTest
-Creating a framework for a phaser runner
+# EndlessRunnerTest
+Creating a framework for an endless runner game
